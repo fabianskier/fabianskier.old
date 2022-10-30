@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=fabianskier&color=brightgreen&style=flat-square)
 
 <!--
 **fabianskier/fabianskier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
