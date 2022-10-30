@@ -6,7 +6,6 @@
 
 Here are some ideas to get you started:
 -->
-----
 - 📲 I’m currently working on my first iOS app.
 - 🌱 I’m currently learning Ruby, React, Elixir and SwiftUI.
 - 👯 I’m looking to collaborate on open source projects.
